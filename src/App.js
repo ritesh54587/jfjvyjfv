@@ -20,6 +20,7 @@ class App extends React.Component{
               <th>FirstName</th>
               <th>LastName</th>
               <th>Email</th>
+              <th>Mob no</th>
             </tr>
           </thead>
           <tbody>         
